@@ -15,10 +15,6 @@ namespace modul9_1302210028.Controllers
                 new List<string>{"KPL", "BasDat", "PBO"}, 2021),
             new Mahasiswa("Hilman Fariz Hirzi", "1302213092",
                 new List<string>{"KPL", "BasDat", "PBO"}, 2021),
-            new Mahasiswa("Putri Auliya Rahmah", "1302210033",
-                new List<string>{"KPL", "BasDat", "PBO"}, 2021),
-            new Mahasiswa("Liyan Made Leon WAYAN", "1302213037",
-                new List<string>{"KPL", "BasDat", "PBO"}, 2021),
         };
 
         [HttpGet]
